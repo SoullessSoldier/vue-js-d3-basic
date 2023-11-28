@@ -13,3 +13,11 @@ npm run dev
 
 TODO:
 another exercise: [logrocket page](https://blog.logrocket.com/data-visualization-vue-js-d3/#building-line-chart-d3-js)
+
+Samples in sandboxes:
+[BarChart.vue](https://codesandbox.io/p/sandbox/d3-bar-chart-vuejs-okz1r?file=%2Fpublic%2Findex.html)
+
+[Horizontal Stacked Bar Chart in D3](https://codepen.io/wp22/pen/dyydGda)
+
+[vue-d3-charts](https://saigesp.github.io/vue-d3-charts/#/barchart)
+
